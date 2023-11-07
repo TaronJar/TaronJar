@@ -1,5 +1,7 @@
 <h2 align="center"> Welcome to my GitHub profile 👋</h2> 
+
 <table align=center>
+  
 </table>
 
 ## Statistics: 

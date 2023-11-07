@@ -1,11 +1,4 @@
 <h2 align="center"> Welcome to my GitHub profile 👋</h2>
-<table align=center>
-  <tr>
-    <td align=center><a href="https://web.telegram.org/z/">Telegram<br/></a>@taron_jara</td>
-    <td align=center><a href="taron64arm@gmail.com">Gmail<br/>taron64arm@gmail.com</a></td>
-  </tr>
-</table>
-
 ## Statistics:
 |                                                                                                                                         |                                                                                                                           |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|

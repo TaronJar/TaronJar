@@ -10,10 +10,7 @@
       <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
     </a
     <br>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=TaronJarahyan&style=flat-square&color=blue" alt=""/>
-</div>
-
+  
 ## Skills:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)

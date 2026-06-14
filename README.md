@@ -6,7 +6,7 @@
   <hr/>
 </div>
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B-2ea043?style=for-the-badge"><img src="https://img.shields.io/badge/-%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B-2ea043?style=for-the-badge"></picture>
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Projects-2ea043?style=for-the-badge"><img src="https://img.shields.io/badge/-Projects-2ea043?style=for-the-badge"></picture>
 
 <div align="center">
 

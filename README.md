@@ -3,10 +3,6 @@
 
   <br/><br/>
 
-  <a href="mailto:taron64arm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-  <br/><br/>
-
   <hr/>
 </div>
 

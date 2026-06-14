@@ -24,6 +24,4 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=TaronJar&style=flat-square&color=blue" alt=""/>
-  <br/>
-  <sub>Буду рад советам и критике ✌️</sub>
 </div>

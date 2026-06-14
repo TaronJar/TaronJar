@@ -6,18 +6,10 @@
   <hr/>
 </div>
 
-## 📌 Проекты
+### <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B-2ea043?style=for-the-badge"><img src="https://img.shields.io/badge/-%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B-2ea043?style=for-the-badge"></picture>
 
 <div align="center">
 
-<a href="https://github.com/TaronJar/selenium-java-test">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TaronJar&repo=selenium-java-test&theme=default&hide_border=true" />
-</a>
+[![selenium-java-test](https://github-readme-stats.vercel.app/api/pin/?username=TaronJar&repo=selenium-java-test&theme=default&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/TaronJar/selenium-java-test)
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TaronJar&style=flat-square&color=blue" alt=""/>
 </div>

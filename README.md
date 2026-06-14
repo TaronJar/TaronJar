@@ -1,28 +1,25 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=400&lines=Hello%2C+I'm+Taron!;%D0%AF+%D1%83%D1%87%D1%83%D1%81%D1%8C+%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C;%D0%AD%D1%82%D0%BE+%D0%BC%D0%BE%D0%B9+%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C" alt="Typing SVG">
 
-# Привет! 👋
+  <br/><br/>
 
-Я **Тарон** — учусь программировать и автоматизировать тестирование.
+  <a href="mailto:taron64arm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-🔹 Пока ничего не знаю, но очень стараюсь  
-🔹 Этот профиль — мой дневник обучения  
+  <br/><br/>
 
----
+  <p><i>Начинающий автоматизатор тестирования</i></p>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taron64arm@gmail.com)
-
+  <hr/>
 </div>
 
----
+## 🚀 Мой путь
 
-## 🧠 Чем занимаюсь
-
-- Изучаю **Java** и **Selenium**
-- Пишу простые тесты
+Сейчас изучаю **Java** + **Selenium** + **JUnit**.  
+Этот профиль — мой прогресс. Медленно, но верно 🐢
 
 ---
 
-## 📁 Проекты
+## 📌 Проекты
 
 <div align="center">
 
@@ -35,5 +32,7 @@
 ---
 
 <div align="center">
-  <sub>Сюда тоже когда-нибудь что-нибудь добавлю... 🙃</sub>
+  <img src="https://komarev.com/ghpvc/?username=TaronJar&style=flat-square&color=blue" alt=""/>
+  <br/>
+  <sub>Буду рад советам и критике ✌️</sub>
 </div>
